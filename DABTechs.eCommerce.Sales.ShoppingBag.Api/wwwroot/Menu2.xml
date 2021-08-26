@@ -1,0 +1,8 @@
+<meganav xmlns="http://www.next.co.uk" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<departments>
+	<department name="Womens" siteurl="af=gender:women&amp;gender=women">
+	</department>
+	<department name="Mens" siteurl="af=gender:women&amp;gender=women">
+	</department>
+	</departments>
+</meganav>

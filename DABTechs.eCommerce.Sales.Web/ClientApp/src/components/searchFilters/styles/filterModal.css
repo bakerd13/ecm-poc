@@ -1,0 +1,339 @@
+.facets-popup-container {
+    height: 440px;
+    width: 700px;
+    position: fixed;
+    top: 175px;
+    left: 50%;
+    z-index: 999999999;
+    padding: 25px;
+    overflow: hidden;
+    margin-left: -346px;
+    -webkit-transform: scale(0.9);
+    -moz-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    transform: scale(0.9);
+    opacity: 0;
+    -webkit-transition: all 200ms cubic-bezier(0.165, 0.84, 0.44, 1);
+    -moz-transition: all 200ms cubic-bezier(0.165, 0.84, 0.44, 1);
+    -ms-transition: all 200ms cubic-bezier(0.165, 0.84, 0.44, 1);
+    -o-transition: all 200ms cubic-bezier(0.165, 0.84, 0.44, 1);
+    transition: all 200ms cubic-bezier(0.165, 0.84, 0.44, 1);
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    display: none;
+  }
+  .facets-popup-container.show {
+    opacity: 1;
+    visibility: visible;
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    display: block;
+  }
+  @media (max-width: 768px) {
+    .facets-popup-container.show {
+      display: none;
+    }
+    .facetPopupDisableScreen.disabled {
+      display: none;
+    }
+  }
+  .filter-modal {
+    width: 650px;
+    padding: 20px 25px;
+    height: 400px;
+    background: #fff;
+    overflow: hidden;
+    -webkit-box-shadow: 0 0 23px 0 rgba(0, 0, 0, 0.32);
+    -moz-box-shadow: 0 0 23px 0 rgba(0, 0, 0, 0.32);
+    box-shadow: 0 0 23px 0 rgba(0, 0, 0, 0.32);
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .filter-modal .filter-section {
+    border: 0;
+  }
+
+  .filter-modal .letter-nav {
+    height: 27px;
+    clear: both;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-align: justify;
+    border-bottom: 1px dotted #C7C5C5;
+  }
+
+  .filter-modal .letter-nav a {
+    color: Black;
+    display: block;
+    background-color: #fff;
+    cursor: pointer;
+    float: left;
+    padding: 4px 6px;
+    margin-right: 1px;
+    font-size: 13px;
+    font-family: 'azo-sans', sans-serif;
+  }
+
+  .filter-modal .letter-nav a:hover {
+    text-decoration: underline;
+  }
+
+  .filter-modal .letter-nav a.selected {
+    font-weight: bold;
+  }
+
+  .filter-modal .letter-nav a.disabled,
+  .FilterModal .letter-nav a.disabled:hover {
+    color: #A2A2A2;
+    cursor: default;
+  }
+
+  .filter-modal .letter-nav a.disabled:hover {
+    text-decoration: none;
+  }
+
+  .filter-modal ul,
+  .filter-modal li,
+  .filter-modal ul li {
+    list-style-type: none;
+    list-style: none;
+    margin: 0;
+  }
+
+  .filter-modal .filter-modal-list {
+    width: 368px;
+    height: 282px;
+    overflow-y: auto;
+    float: left;
+    padding: 9px;
+    padding-right: 3px;
+    border: 1px solid #C7C5C5;
+  }
+
+  .filter-modal .Filter-modal-list .filter-item {
+    float: left;
+    text-align: left;
+    width: 166px;
+  }
+
+  .filter-modal .filter-modal-summary {
+    width: 238px;
+    height: 275px;
+    float: left;
+    padding-left: 29px;
+  }
+
+  .filter-modal .filter-modal-list ul li.option {
+    display: block;
+    float: left;
+    width: 173px;
+    height: 20px;
+    margin-bottom: 4px;
+    font-size: 11px;
+  }
+
+  .filter-modal .filter-modal-summary *,
+  .filter-modal .filter-modal-list ul li.option * {
+    color: #000;
+    font-weight: normal;
+  }
+
+  .filter-modal .filter-modal-list ul li.option span.OptionName {
+    display: block;
+    float: left;
+    max-width: 133px;
+    margin: 0 1px 0 5px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .filter-modal .filter-modal-list ul li.option div.Disabled * {
+    color: #ccc;
+  }
+
+  .filter-modal .filter-modal-list ul li.option input {
+    float: left;
+  }
+
+  .filter-modal .Filter-modal-summary .selected-title-bar {
+    border-bottom: 1px solid #C7C5C5;
+    padding-bottom: 10px;
+    margin-bottom: 17px;
+    height: 17px;
+  }
+
+  .filter-modal .Filter-modal-summary .selected-title-bar h3 {
+    margin: 0;
+    float: left;
+    font-size: 17px;
+    font-family: 'azo-sans', sans-serif;
+  }
+
+  .filter-modal .Filter-modal-summary .selected-title-bar a.clear {
+    text-decoration: none;
+    float: right;
+    font-size: 11px;
+    margin-top: -10px;
+    font-weight: bold;
+    display: none;
+  }
+
+  .filter-modal .Filter-modal-summary ul {
+    height: 210px;
+    overflow: hidden;
+    display: block;
+    overflow-y: scroll;
+    text-align: left;
+  }
+
+  .filter-modal .Filter-modal-summary ul li {
+    margin-bottom: 10px;
+    font-size: 11px;
+    font-weight: bold;
+    height: 14px;
+  }
+
+  .filter-modal .Filter-modal-summary ul li span.optionLabel {
+    float: left;
+    display: block;
+    width: 140px;
+    margin-right: 5px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .filter-modal .Filter-modal-summary ul li a {
+    background-image: url(/images/removeCross.png);
+    background-repeat: no-repeat;
+    background-position: right 0;
+    width: 63px;
+    display: block;
+    float: left;
+    height: 14px;
+    text-decoration: none;
+  }
+
+  .filter-modal .Filter-modal-summary ul li a span {
+    visibility: hidden;
+  }
+
+  .filter-modal .Filter-modal-summary ul li a:hover span {
+    visibility: visible;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  .filter-modal .control-bar {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    height: 24px;
+    clear: both;
+    margin-top: -3px;
+    border-bottom: 1px dotted #C7C5C5;
+  }
+
+  .filter-modal .control-bar .title-bar {
+    height: 20px;
+    float: left;
+    color: #000;
+    font-size: 17px;
+    font-family: 'azo-sans', sans-serif;
+  }
+
+  .filter-modal .control-bar a.close {
+    overflow: hidden;
+    display: block;
+    color: #111;
+    cursor: pointer;
+    float: right;
+    position: relative;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: 'azo-sans', sans-serif;
+    background-image: url(/images/cross.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    padding: 0 24px 0 0;
+  }
+
+  .filter-modal .button-wrap {
+    color: #000;
+    width: 200px;
+    float: right;
+    text-align: right;
+  }
+
+  .filter-modal .button-wrap a.cancel {
+    color: #2baa9f;
+    margin-right: 25px;
+    line-height: 150%;
+    font-weight: bold;
+  }
+
+  .filter-modal .button-wrap a.vip-button {
+    font-size: 12px;
+    padding: 9px 11px;
+    margin-right: 3px;
+  }
+
+  .filter-modal .button-wrap a.confirm.submitting {
+    background: #ccc;
+  }
+
+  .filter-modal .auto-dropdown {
+    position: absolute;
+    border: 1px solid #ccc;
+    width: 200px;
+    font-size: 12px;
+    min-height: 20px;
+    background-color: #F9F9F9;
+    z-index: 200;
+    top: 64px;
+    left: 420px;
+    display: none;
+  }
+
+  .filter-modal .auto-dropdown ul li {
+    color: #000;
+    padding: 2px 5px;
+  }
+
+  .filter-modal .auto-dropdown ul li a {
+    text-decoration: none;
+    color: #000;
+    width: 180px;
+    display: block;
+  }
+
+  .filter-modal .auto-dropdown ul li a:hover {
+    color: #2baa9f;
+  }
+
+  .filter-modal .auto-dropdown ul li.highlighted {
+    background-color: #ccc;
+  }
+
+  .filter-modal .auto-dropdown ul li.highlighted a {
+    color: #fff;
+  }
+
+  .filter-modal .auto-dropdown .noResults {
+    color: #000;
+    padding: 7px;
+    display: block;
+  }
+
+  

@@ -1,0 +1,20 @@
+.bagHeader {
+    width: 100%;
+    border-bottom: 1px solid #c7c5c5;
+    padding: 0 0 11px 0;
+    margin: 0;
+    font-family: "azo-sans",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+
+.items_count {
+    line-height: 100%;
+    text-align: left;
+    margin-left: 12px;
+    margin-top: 0;
+    padding-top: 14px;
+    text-transform: capitalize;
+    font-size: 15px;
+}

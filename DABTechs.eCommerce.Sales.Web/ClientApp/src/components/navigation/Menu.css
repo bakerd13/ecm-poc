@@ -1,0 +1,14 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  height: 44px;
+  background-color: #07bb80;
+  position: relative;
+}
+
+.submenu-sections {
+  flex: 1;
+  justify-content: space-around;
+  align-items: center;
+}

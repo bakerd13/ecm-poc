@@ -1,0 +1,1384 @@
+{
+  "departments": [
+    {
+      "name": "Womens",
+      "siteUrl": "af=gender:women&gender=women",
+      "searchLinks": [
+        {
+          "columns": [
+            {
+              "sections": [
+                {
+                  "title": "Clothing",
+                  "links": [
+                    {
+                      "title": "Shop All ",
+                      "siteUrl": "af=gender:women",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Blouses & Shirts",
+                      "siteUrl": "af=gender:women productaffiliation:shirtsandblouses",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Coats & Jackets",
+                      "siteUrl": "af=gender:women productaffiliation:coatsandjackets",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Dresses",
+                      "siteUrl": "af=gender:women sub:dresses sub:suitdresses sub:Dresses sub:SuitDresses",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Hoodies & Sweatshirts",
+                      "siteUrl": "af=gender:women productaffiliation:sweatshirtsandhoodies",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Jeans ",
+                      "siteUrl": "af=gender:women sub:jeans sub:Jeans",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Jumpers & Cardigans",
+                      "siteUrl": "af=gender:women productaffiliation:knitwear",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Jumpsuits & Playsuits",
+                      "siteUrl": "af=gender:women productaffiliation:jumpsuitsandplaysuits",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Nightwear & Loungewear",
+                      "siteUrl": "af=gender:women productaffiliation:nightwear",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Skirts & Shorts",
+                      "siteUrl": "af=gender:women productaffiliation:shortsandskirts",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Sportswear",
+                      "siteUrl": "af=gender:women productaffiliation:sportswear",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Suits & Workwear",
+                      "siteUrl": "af=gender:women productaffiliation:tailoring",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Swim & Beachwear",
+                      "siteUrl": "af=gender:women productaffiliation:swimwear",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Tops & T-Shirts",
+                      "siteUrl": "af=gender:women productaffiliation:tops",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Trousers & Leggings",
+                      "siteUrl": "af=gender:women productaffiliation:trousersleggings",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Lingerie",
+                      "siteUrl": "af=gender:women productaffiliation:lingerie",
+                      "newIn": "false"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "sections": [
+                {
+                  "title": "Shoes",
+                  "links": [
+                    {
+                      "title": "All Footwear",
+                      "siteUrl": "af=gender:women productaffiliation:footwear",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Boots",
+                      "siteUrl": "af=gender:women sub:boots sub:wellies sub:Boots sub:Wellies",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Sandals, Flip Flops & Wedges",
+                      "siteUrl": "af=gender:women sub:sandals sub:Sandals",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Shoes",
+                      "siteUrl": "af=gender:women sub:shoes sub:Shoes",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Trainers",
+                      "siteUrl": "af=gender:women sub:trainers sub:Trainers",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Slippers",
+                      "siteUrl": "af=gender:women sub:slippers sub:Slippers",
+                      "newIn": "false"
+                    }
+                  ]
+                },
+                {
+                  "title": "Accessories",
+                  "links": [
+                    {
+                      "title": "All Accessories",
+                      "siteUrl": "af=gender:women productaffiliation:accessories",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Bags & Purses",
+                      "siteUrl": "af=gender:women sub:bags sub:purses sub:Bags sub:Purses",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Hats, Gloves & Scarves",
+                      "siteUrl": "af=gender:women sub:hats sub:Hats sub:gloves sub:Gloves sub:scarves sub:Hats sub:Scarves",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Fragrance & Beauty",
+                      "siteUrl": "af=gender:women editorial:beauty editorial:Beauty",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Jewellery & Watches",
+                      "siteUrl": "af=gender:women productaffiliation:jewellery",
+                      "newIn": "false"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "sections": [
+                {
+                  "title": "Brands",
+                  "links": [
+                    {
+                      "title": "Shop All ",
+                      "siteUrl": "af=gender:women editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Accessorize",
+                      "siteUrl": "af=gender:women brand:accessorize",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "adidas",
+                      "siteUrl": "af=gender:women brand:adidas brand:adidasoriginals",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Barbour",
+                      "siteUrl": "af=gender:women brand:barbour",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Joules",
+                      "siteUrl": "af=gender:women brand:joules",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Lipsy",
+                      "siteUrl": "af=gender:women brand:lipsy",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Mint Velvet",
+                      "siteUrl": "af=gender:women brand:mintvelvet",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Monsoon",
+                      "siteUrl": "af=gender:women brand:monsoon",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Nike",
+                      "siteUrl": "af=gender:women brand:nike",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Oasis",
+                      "siteUrl": "af=gender:women brand:oasis",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Phase Eight",
+                      "siteUrl": "af=gender:women brand:phaseeight",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "River Island",
+                      "siteUrl": "af=gender:women brand:riverisland",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Ted Baker",
+                      "siteUrl": "af=gender:women brand:tedbaker",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Topshop",
+                      "siteUrl": "af=gender:women brand:topshop",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Warehouse",
+                      "siteUrl": "af=gender:women brand:warehouse",
+                      "newIn": "false"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mens",
+      "siteUrl": "af=gender:men",
+      "searchLinks": [
+        {
+          "columns": [
+            {
+              "sections": [
+                {
+                  "title": "Clothing",
+                  "links": [
+                    {
+                      "title": "Shop All",
+                      "siteUrl": "af=gender:men",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Coats & Jackets",
+                      "siteUrl": "af=gender:men productaffiliation:coatsandjackets",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Jeans",
+                      "siteUrl": "af=gender:men sub:jeans sub:Jeans",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Joggers",
+                      "siteUrl": "af=gender:men sub:joggers sub:Joggers",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Knitwear",
+                      "siteUrl": "af=gender:men productaffiliation:knitwear",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Pyjamas & Loungewear",
+                      "siteUrl": "af=gender:men productaffiliation:nightwear",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Shirts",
+                      "siteUrl": "af=gender:men productaffiliation:casualshirts productaffiliation:formalshirts",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Shorts & Swimwear",
+                      "siteUrl": "af=gender:men sub:shorts sub:swimshorts sub:Shorts sub:SwimShorts",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Socks",
+                      "siteUrl": "af=gender:men sub:socks sub:Socks",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Sportswear",
+                      "siteUrl": "af=gender:men productaffiliation:sportswear",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Suits",
+                      "siteUrl": "af=gender:men productaffiliation:tailoring productaffiliation:Tailoring",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Sweatshirts & Hoodies",
+                      "siteUrl": "af=gender:men sub:hoodies sub:sweattops sub:sweat_tops sub:Hoodies sub:SweatTops",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "T-shirts & Polos",
+                      "siteUrl": "af=gender:men productaffiliation:tops",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Trousers & Chinos",
+                      "siteUrl": "af=gender:men sub:trousers sub:Trousers",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Underwear",
+                      "siteUrl": "af=gender:men productaffiliation:underwear",
+                      "newIn": "false"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "sections": [
+                {
+                  "title": "Footwear",
+                  "links": [
+                    {
+                      "title": "Shop All",
+                      "siteUrl": "af=gender:men productaffiliation:footwear",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Boots",
+                      "siteUrl": "af=gender:men sub:boots sub:wellies sub:Boots sub:Wellies",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Flipflops & Sliders",
+                      "siteUrl": "af=gender:men sub:sandals sub:Sandals",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Football Boots",
+                      "siteUrl": "af=gender:men sub:footballboots sub:FootballBoots",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Shoes",
+                      "siteUrl": "af=gender:men sub:shoes sub:Shoes",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Slippers",
+                      "siteUrl": "af=gender:men sub:slippers sub:Slippers",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Trainers & Pumps",
+                      "siteUrl": "af=gender:men sub:trainers sub:Trainers",
+                      "newIn": "false"
+                    }
+                  ]
+                },
+                {
+                  "title": "Accessories",
+                  "links": [
+                    {
+                      "title": "Shop All",
+                      "siteUrl": "af=gender:men sub:ties sub:sunglasses sub:watches sub:gifts sub:bags sub:hats sub:wallets sub:belts sub:bracelets sub:bottle sub:stationeryandcraft sub:swimmingaccessories sub:washbags sub:Ties sub:Sunglasses sub:Watches sub:Gifts sub:Bags sub:Hats sub:Wallets sub:Belts sub:Bracelets sub:Bottle sub:StationeryandCraft sub:SwimmingAccessories sub:Washbags",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Bags",
+                      "siteUrl": "af=gender:men productaffiliation:accessories sub:bags productaffiliation:Accessories sub:Bags",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Belts",
+                      "siteUrl": "af=gender:men productaffiliation:accessories sub:belts sub:Belts",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Gifts & Gadgets",
+                      "siteUrl": "af=gender:men sub:watches sub:gifts sub:fragrances sub:bottle sub:handkerchiefs sub:Watches sub:Gifts sub:Fragrances sub:Bottle sub:Handkerchiefs",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Ties & Pocket Squares",
+                      "siteUrl": "af=gender:men sub:pocketsquares sub:ties sub:PocketSquares sub:Ties",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Wallets",
+                      "siteUrl": "af=gender:men sub:wallets sub:Wallets",
+                      "newIn": "false"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "sections": [
+                {
+                  "title": "Brands",
+                  "links": [
+                    {
+                      "title": "Shop All",
+                      "siteUrl": "af=gender:men editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Adidas",
+                      "siteUrl": "af=gender:men brand:adidasoriginals brand:adidas",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Burton",
+                      "siteUrl": "af=gender:men brand:burton",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Esprit",
+                      "siteUrl": "af=gender:men brand:esprit",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "FatFace",
+                      "siteUrl": "af=gender:men brand:fatface",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "GANT",
+                      "siteUrl": "af=gender:men brand:gant",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Hugo Boss",
+                      "siteUrl": "af=gender:men brand:hugo brand:boss",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Hummel",
+                      "siteUrl": "af=gender:men brand:hugo brand:hummel",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Jack & Jones",
+                      "siteUrl": "af=gender:men brand:jackandjones",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Joules",
+                      "siteUrl": "af=gender:men brand:joules",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Lyle & Scott",
+                      "siteUrl": "af=gender:men brand:lyleandscott brand:LyleandScott",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Nike",
+                      "siteUrl": "af=gender:men brand:nike",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "River Island",
+                      "siteUrl": "af=gender:men brand:riverisland",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Superdry",
+                      "siteUrl": "af=gender:men brand:superdry",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Ted Baker",
+                      "siteUrl": "af=gender:men brand:tedbaker",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Topman",
+                      "siteUrl": "af=gender:men brand:topman",
+                      "newIn": "false"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Girls",
+      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls",
+      "searchLinks": [
+        {
+          "columns": [
+            {
+              "sections": [
+                {
+                  "title": "Clothing",
+                  "links": [
+                    {
+                      "title": "Shop All",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Coats & Jackets",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex productaffiliation:coatsandjackets",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Dresses",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex sub:dresses sub:Dresses",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Jeans",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex sub:jeans sub:Jeans",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Jumpsuits & Playsuits",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls  gender:newbornunisex productaffiliation:jumpsuitsandplaysuits",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Knitwear",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex productaffiliation:knitwear",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Nightwear & Pyjamas",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newbornrgirls gender:newbornrunisex productaffiliation:nightwear",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Schoolwear",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls productaffiliation:schoolwear",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Sets & Outfits",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex sub:sets sub:Sets",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Shorts & Skirts",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex sub:shorts sub:skirts sub:Shorts sub:Skirts",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Sleepsuits & Bodysuits",
+                      "siteUrl": "af=gender:unisex gender:newbornunisex gender:newborngirls sub:sleepsuits sub:bodysuits sub:Sleepsuits sub:Bodysuits",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Sportswear",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newbornunisex gender:newborngirls productaffiliation:sportswear",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Sweatshirts & Hoodies",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex productaffiliation:sweatshirtsandhoodies",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Swim & Beach",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex productaffiliation:swimwear",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Tops, T-shirts & Shirts",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex productaffiliation:tops",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Trousers & Leggings",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex productaffiliation:trousersleggings",
+                      "newIn": "false"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "sections": [
+                {
+                  "title": "Shoes & Accessories",
+                  "links": [
+                    {
+                      "title": "Bags & Accessories",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls productaffiliation:accessories",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Hats, Gloves & Scarves",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls sub:hats sub:scarves sub:Hats sub:Scarves",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Shoes & Boots",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls productaffiliation:footwear",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Socks, Tights & Underwear",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls sub:socks sub:tights sub:briefs sub:croptops sub:Socks sub:Tights sub:Briefs sub:CropTops",
+                      "newIn": "false"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "sections": []
+            },
+            {
+              "sections": [
+                {
+                  "title": "Brands",
+                  "links": [
+                    {
+                      "title": "Shop All",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Adidas",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:adidas brand:adidasoriginals",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Benetton",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:benetton",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Boden",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:boden",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Clarks",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:clarks",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Converse",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:converse",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Frugi",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:frugi",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "FatFace",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:fatface",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Joules",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:joules",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Lipsy Girls",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:lipsy",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Mint Velvet",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:mintvelvet",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Monsoon",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:monsoon",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Nike",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:nike",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "River Island",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:riverisland",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Tommy Hilfiger",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:tommyhilfiger",
+                      "newIn": "false"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Boys",
+      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys",
+      "searchLinks": [
+        {
+          "columns": [
+            {
+              "sections": [
+                {
+                  "title": "Clothing",
+                  "links": [
+                    {
+                      "title": "Shop All",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Coats & Jackets",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex sub:jackets sub:coats sub:Jackets sub:Coats",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Jeans",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex sub:jeans sub:Jeans",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Joggers",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex sub:joggers sub:Joggers",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Nightwear & Pyjamas",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys sub:pyjamas sub:robes sub:Pyjamas sub:Robes",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Schoolwear",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:schoolwear",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Sets & Outfits",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:outfits",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Shirts",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:shirts",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Shorts",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex sub:shorts sub:Shorts",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Sleepsuits & Babysuits",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex sub:sleepsuits sub:bodysuits sub:Sleepsuits sub:Bodysuits",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Sportswear",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:sportswear",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Suits & Waistcoats",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:boyssuits",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Sweatshirts & Knitwear",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:sweatshirtsandhoodies",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Swim & Beach",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:swimwear",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Tops, T-shirts & Polos",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:tops",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Trousers & Chinos",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:trousers",
+                      "newIn": "false"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "sections": [
+                {
+                  "title": "Shoes & Accessories",
+                  "links": [
+                    {
+                      "title": "Bags & Accessories",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:accessories",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Hats & Gloves",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:hatsglovesscarves",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Shoes & Boots",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:footwear",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Socks & Underwear",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex sub:socks sub:briefs sub:boxers sub:trunks sub:Socks sub:Briefs sub:Boxers sub:Trunks",
+                      "newIn": "false"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "sections": [
+                {
+                  "title": "Brands",
+                  "links": [
+                    {
+                      "title": "Shop All",
+                      "siteUrl": "af=gender:newbornboys gender:newbornunisex gender:youngerboys gender:olderboys editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Adidas",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:adidas brand:adidasoriginals",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Benetton",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:benetton",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Boden",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:boden",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "BOSS",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:boss",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Clarks",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:clarks",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Converse",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:converse",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Esprit",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:esprit",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Frugi",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:frugi",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "GANT",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:gant",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "GAP",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:gap",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Hype",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:hype",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Joules",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:joules",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Nike",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:nike",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "River Island",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:riverisland",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Tommy Hilfiger",
+                      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:tommyhilfiger",
+                      "newIn": "false"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Homeware",
+      "siteUrl": "af=cat:homeware",
+      "searchLinks": [
+        {
+          "columns": [
+            {
+              "sections": [
+                {
+                  "title": "Home Furnishings",
+                  "links": [
+                    {
+                      "title": "Shop All",
+                      "siteUrl": "af=gender:homeware gender:unisex",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Bathroom",
+                      "siteUrl": "af=gender:homeware gender:unisex productaffiliation:bathroom",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Bedding",
+                      "siteUrl": "af=gender:homeware gender:unisex productaffiliation:bedding",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Childrens Bedroom",
+                      "siteUrl": "af=gender:homeware gender:unisex productaffiliation:childrensbedroom",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Curtains & Blinds",
+                      "siteUrl": "af=gender:homeware gender:unisex productaffiliation:curtainsandblinds",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Cushions & Throws",
+                      "siteUrl": "af=gender:homeware gender:unisex productaffiliation:cushionsandthrows",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Decorative Accessories",
+                      "siteUrl": "af=gender:homeware gender:unisex productaffiliation:decorativeaccessories",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Home Brands",
+                      "siteUrl": "af=gender:homeware gender:unisex editorial:label editorial:Label",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Home Fragrance",
+                      "siteUrl": "af=gender:homeware gender:unisex productaffiliation:homefragrance",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Kitchen & Tableware",
+                      "siteUrl": "af=gender:homeware gender:unisex productaffiliation:kitchen",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Lighting",
+                      "siteUrl": "af=gender:homeware gender:unisex productaffiliation:lighting",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Rugs",
+                      "siteUrl": "af=gender:homeware gender:unisex productaffiliation:rugsrunnersdoormats",
+                      "newIn": "false"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "sections": [
+                {
+                  "title": "Furniture",
+                  "links": [
+                    {
+                      "title": "Shop All Furniture",
+                      "siteUrl": "af=cat:homeware productaffiliation:furniture",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Bedroom Furniture",
+                      "siteUrl": "af=cat:homeware productaffiliation:bedroomfurniture",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Dining Furniture",
+                      "siteUrl": "af=cat:homeware productaffiliation:diningroomfurniture",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Living Room Furniture",
+                      "siteUrl": "af=cat:homeware productaffiliation:livingfurniture",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Sofas & Upholstery",
+                      "siteUrl": "af=cat:homeware sub:upholstery sub:Upholstery",
+                      "newIn": "false"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Brands",
+      "siteUrl": "af=editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany",
+      "searchLinks": [
+        {
+          "columns": [
+            {
+              "sections": [
+                {
+                  "title": "Featured Brands A-G",
+                  "links": [
+                    {
+                      "title": "Accessorize",
+                      "siteUrl": "af= brand:accessorize",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "adidas",
+                      "siteUrl": "af= brand:adidas brand:adidasoriginals",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Benetton",
+                      "siteUrl": "af= brand:benetton",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Boden",
+                      "siteUrl": "af= brand:boden",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Clarks",
+                      "siteUrl": "af= brand:clarks",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Converse",
+                      "siteUrl": "af= brand:converse",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Dorothy Perkins",
+                      "siteUrl": "af= brand:dorothyperkins",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Esprit",
+                      "siteUrl": "af= brand:esprit",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Evans",
+                      "siteUrl": "af= brand:evans",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "FatFace",
+                      "siteUrl": "af= brand:fatface",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "French Connection",
+                      "siteUrl": "af= brand:frenchconnection",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Frugi",
+                      "siteUrl": "af= brand:frugi",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "GANT",
+                      "siteUrl": "af= brand:gant",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "GAP",
+                      "siteUrl": "af= brand:gap",
+                      "newIn": "false"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "sections": [
+                {
+                  "title": "Featured Brands H-N",
+                  "links": [
+                    {
+                      "title": "Hugo Boss",
+                      "siteUrl": "af= brand:hugo brand:boss",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Hobbs",
+                      "siteUrl": "af= brand:hobbs",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Hype",
+                      "siteUrl": "af= brand:hype",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Jigsaw",
+                      "siteUrl": "af= brand:jigsaw",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Joe Browns",
+                      "siteUrl": "af= brand:joebrowns",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Joules",
+                      "siteUrl": "af= brand:joules",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Lipsy",
+                      "siteUrl": "af= brand:lipsy",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Lotus Footwear",
+                      "siteUrl": "af= brand:lotusfootwear",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Lyle & Scott",
+                      "siteUrl": "af= brand:lyleandscott",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Mint Velvet",
+                      "siteUrl": "af= brand:mintvelvet",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Monsoon",
+                      "siteUrl": "af= brand:monsoon",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Nike",
+                      "siteUrl": "af= brand:nike",
+                      "newIn": "false"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "sections": [
+                {
+                  "title": "Featured Brands O-Z",
+                  "links": [
+                    {
+                      "title": "Oasis",
+                      "siteUrl": "af= brand:oasis",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Phase Eight",
+                      "siteUrl": "af= brand:phaseeight",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Pour Moi",
+                      "siteUrl": "af= brand:pourmoi",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "PrettyLittleThing",
+                      "siteUrl": "af= brand:prettylittlething",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Quiz",
+                      "siteUrl": "af= brand:quiz",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Reebok",
+                      "siteUrl": "af= brand:reebok",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "River Island",
+                      "siteUrl": "af= brand:riverisland",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Simply Be",
+                      "siteUrl": "af= brand:simplybe",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Superdry",
+                      "siteUrl": "af= brand:superdry",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Ted Baker",
+                      "siteUrl": "af= brand:tedbaker",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Tommy Hilfiger",
+                      "siteUrl": "af= brand:tommyhilfiger",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Under Armour",
+                      "siteUrl": "af= brand:underarmour",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Wallis",
+                      "siteUrl": "af= brand:wallis",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Warehouse",
+                      "siteUrl": "af= brand:warehouse",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "White Stuff",
+                      "siteUrl": "af= brand:whitestuff",
+                      "newIn": "false"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "sections": [
+                {
+                  "title": "Womens",
+                  "links": [
+                    {
+                      "title": "All Clothing ",
+                      "siteUrl": "af=gender:women editorial:label editorial:lipsyandcompany editorial:Label editorial:LipsyandCompany",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "All Shoes & Boots ",
+                      "siteUrl": "af=gender:women editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany sub:trainers sub:sandals sub:shoes sub:pumps sub:boots sub:wellies sub:slippers sub:Trainers sub:Sandals sub:Shoes sub:Pumps sub:Boots sub:Wellies sub:Slippers",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "All Accessories ",
+                      "siteUrl": "af=gender:women editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany sub:sunglasses sub:bags sub:ties sub:belts sub:socks sub:Sunglasses sub:Bags sub:Ties sub:Belts sub:Socks",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Sportswear & Trainers",
+                      "siteUrl": "af=gender:women productaffiliation:sportswear",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Swimwear & Lingerie",
+                      "siteUrl": "af=gender:women sub:bikinis sub:swimsuits sub:tankinis sub:coverups sub:kaftans sub:bikinibottoms sub:swimmingaccessories sub:bodies sub:bodysuits sub:slips sub:babydollsbasques sub:briefs sub:shapewearsolutions sub:tights sub:Bikinis sub:Swimsuits sub:Tankinis sub:CoverUps sub:Kaftans sub:BikiniBottoms sub:SwimmingAccessories sub:Bodies sub:Bodysuits sub:slips sub:BabydollsBasques sub:Briefs sub:ShapewearSolutions sub:Tights",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Fragrance & Beauty",
+                      "siteUrl": "af=gender:women editorial:beauty editorial:Beauty",
+                      "newIn": "false"
+                    }
+                  ]
+                },
+                {
+                  "title": "Mens",
+                  "links": [
+                    {
+                      "title": "All Clothing",
+                      "siteUrl": "af=gender:men editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "All Shoes & Boots ",
+                      "siteUrl": "af=gender:men editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany sub:trainers sub:sandals sub:shoes sub:pumps sub:boots sub:wellies sub:slippers sub:Trainers sub:Sandals sub:Shoes sub:Pumps sub:Boots sub:Wellies sub:Slippers",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "Sportswear & Trainers",
+                      "siteUrl": "af=gender:men productaffiliation:sportswear",
+                      "newIn": "false"
+                    }
+                  ]
+                },
+                {
+                  "title": "Children",
+                  "links": [
+                    {
+                      "title": "All Girls",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "All Boys",
+                      "siteUrl": "af=gender:gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany",
+                      "newIn": "false"
+                    },
+                    {
+                      "title": "All Shoes & Trainers",
+                      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex sub:trainers sub:sandals sub:shoes sub:pumps sub:boots sub:wellies sub:slippers sub:Trainers sub:Sandals sub:Shoes sub:Pumps sub:Boots sub:Wellies sub:Slippers",
+                      "newIn": "false"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

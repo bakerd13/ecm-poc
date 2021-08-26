@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg preserveAspectRatio="none" viewBox="0 0 320 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Button Colour</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="R/Button-Label/CTA/Secondary" fill="#386CB1">
+            <path vector-effect="non-scaling-stroke" d="M16.4373516,0 L3.56622618,19.9621785 L0,36.89673 C3.23318878,39.3289992 5.97274738,41.0374764 8.2186758,42.0221614 C11.5875684,43.499189 21.4672266,43.746485 28.8142681,43.746485 C36.1613096,43.746485 183.376584,47.999768 207.256819,47.999768 C231.137054,47.999768 301.450746,48.0001305 306.638563,47.9999493 C311.82638,47.999768 314.024299,39.5936341 317.012149,36.89673 C319.00405,35.0987939 320,33.2899777 320,31.4702814 L309.502566,4.2384379 C273.5563,2.28002039 252.926351,1.30081163 247.61272,1.30081163 C239.642272,1.30081163 93.8761682,2.55722287 87.6818752,2.55722287 C83.5523465,2.55722287 59.804172,1.70481525 16.4373516,0 Z" id="Button-Colour"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,130 @@
+.vip-button-group.top {
+    float: right;
+    right: 0;
+    top: 62px;
+    padding-bottom: 5px;
+  }
+
+  .vip-button-group.mid {
+    padding-left: 759px;
+    margin-top: -30px;
+  }
+
+  .vip-button-group.bottom {
+    float: right;
+    right: 0;
+    bottom: -27px;
+    padding-top: 10px;
+  }
+
+  .vip-button {
+    border-radius: 3px;
+    display: inline-block;
+    padding: 13px 13px;
+    border: 0;
+    color: #111;
+    text-decoration: none;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    white-space: nowrap;
+    vertical-align: middle;
+    text-align: center;
+    font-family: "azo-sans";
+    font-weight: 300;
+    background-color: transparent;
+  }
+
+  .vip-button.right {
+    float: right;
+  }
+
+  .vip-button.primary {
+    background: #4d8958;
+    background: -webkit-linear-gradient(legacy-direction(#83b98d), #4d8958);
+    background: -webkit-linear-gradient(#83b98d, #4d8958);
+    background: linear-gradient(#83b98d, #4d8958);
+    color: #fff;
+  }
+
+  .vip-button.secondary {
+    background: #000000;
+    background: -webkit-linear-gradient(legacy-direction(#595959), #000000);
+    background: -webkit-linear-gradient(#595959, #000000);
+    background: linear-gradient(#83b98d, #000000);
+    color: #fff;
+  }
+
+  .vip-button.secondary#apply-filters {
+    width: 100%;
+  }
+
+  .vip-button.grey {
+    background: #333;
+  }
+
+  .vip-button.green {
+    background: #3F8279;
+  }
+
+  .vip-button.button-search {
+    float: left;
+    width: 75px;
+    position: relative;
+    text-align: left;
+    overflow: hidden;
+    cursor: pointer;
+    padding-left: 0;
+  }
+
+  .vip-button.button-search i.icon {
+    display: inline-block;
+    background-image: url('/images/vip-sprites.png');
+    background-repeat: no-repeat;
+    width: 17px;
+    height: 20px;
+    position: absolute;
+    top: 7px;
+    right: 6px;
+  }
+
+  .vip-button.button-search i.icon.search-sort {
+    background-position: -108px 5px;
+  }
+
+  .vip-button.button-search i.icon.search-refine {
+    background-position: -108px -34px;
+    width: 25px;
+  }
+
+  .vip-button.button-search i.icon.close {
+    background-position: -68px -34px;
+    width: 25px;
+  }
+
+  .vip-button.button-search.refine {
+    width: 86px;
+  }
+
+  .vip-button.button-search select {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    cursor: pointer;
+  }
+
+  @media (max-width: 768px) {
+    .vip-button.mobile-full-width {
+      width: 100%;
+      margin: 10px 0 10px 0;
+    }
+  }
+  

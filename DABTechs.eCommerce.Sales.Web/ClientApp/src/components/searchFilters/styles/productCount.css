@@ -1,0 +1,93 @@
+.ResultCount {
+    background-color: #F9F9F9;
+  }
+  
+    /* TODO chewck position fixed */
+   .ResultCount {
+      font-size: 16px;
+      padding-top: 5px;
+      /* position: fixed; */
+      width: 164px;
+      top: 105px;
+      z-index: 100;
+      border-bottom: 1px dotted #C7C5C5;
+      padding: 10px;
+    }
+  
+    .ResultCount .Count {
+      padding-top: 15px;
+      font-size: 12px;
+      text-transform: uppercase;
+      font-family: 'azo-sans', sans-serif;
+      font-weight: 500;
+    }
+  
+    .Filters .Clear {
+      float: right;
+      padding-top: 19px;
+      text-decoration: none;
+      color: #000;
+      font-size: 10px;
+    }
+  
+    /* TODO next two  what do they do */
+    .Filters.disabled .ResultCount {
+      height: 30px;
+      padding-top: 0;
+      position: relative;
+      top: 0;
+    }
+    .Filters.disabled .ResultCount .Count {
+      padding-top: 2px;
+    }
+  
+    /* mobile phones (portrait and landscape) ----------- */
+  @media all and (max-width: 768px) {
+      .ResultCount .Count {
+        font-size: 12px;
+        text-transform: uppercase;
+        font-family: 'azo-sans', sans-serif;
+        font-weight: 500;
+        float: left;
+        padding-right: 10px;
+      }
+      .ResultCount a {
+        font-size: 11px;
+        color: #000;
+        text-decoration: none;
+        float: right;
+        font-weight: normal;
+        padding-top: 2px;
+      }
+      .Filters .Clear {
+        padding-top: 16px;
+        text-decoration: none;
+        color: #000;
+      }
+    }
+  
+    /* tablet (portrait and landscape) ----------- */
+  @media all and (max-width: 1024px) {
+      .ResultCount .Count {
+        font-size: 15px;
+        text-transform: uppercase;
+        font-family: 'azo-sans', sans-serif;
+        font-weight: 500;
+        float: left;
+        padding-right: 10px;
+      }
+      .ResultCount a {
+        font-size: 11px;
+        color: #000;
+        text-decoration: none;
+        float: right;
+        font-weight: bold;
+        padding-top: 2px;
+      }
+      .Clear {
+        padding-top: 16px;
+        text-decoration: none;
+        color: #000;
+      }
+    }
+    

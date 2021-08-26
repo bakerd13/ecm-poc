@@ -1,0 +1,19 @@
+.product-sizes-container {
+  font-size: 12px;
+  margin-top: 8px;
+}
+
+.product-sizes-container a {
+    margin: 0 4px;
+    color: #20934c;
+    text-decoration: underline;
+  }
+
+.product-sizes-container .product-sizes-title label {
+    font-weight: bold;
+  }
+
+ .product-sizes-container .product-sizes {
+    max-height: none;
+    padding-bottom: 9px;
+  }

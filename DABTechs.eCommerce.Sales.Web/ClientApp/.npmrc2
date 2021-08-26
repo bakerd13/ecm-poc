@@ -1,0 +1,10 @@
+; begin auth token
+//pkgs.dev.azure.com/Next-Ecommerce/_packaging/Next-Ecommerce/npm/registry/:username=Next-Ecommerce
+//pkgs.dev.azure.com/Next-Ecommerce/_packaging/Next-Ecommerce/npm/registry/:_password=[NTdycGUycTU2MnFjY2FjZGVycmNiN2Nmdnd6Y3A1ZWltbWp4YXl6bGtsNGN3NTZnbG81YQ==]
+//pkgs.dev.azure.com/Next-Ecommerce/_packaging/Next-Ecommerce/npm/registry/:email=npm requires email to be set but doesn't use the value
+//pkgs.dev.azure.com/Next-Ecommerce/_packaging/Next-Ecommerce/npm/:username=Next-Ecommerce
+//pkgs.dev.azure.com/Next-Ecommerce/_packaging/Next-Ecommerce/npm/:_password=[NTdycGUycTU2MnFjY2FjZGVycmNiN2Nmdnd6Y3A1ZWltbWp4YXl6bGtsNGN3NTZnbG81YQ==]
+//pkgs.dev.azure.com/Next-Ecommerce/_packaging/Next-Ecommerce/npm/:email=npm requires email to be set but doesn't use the value
+; end auth token
+registry=https://pkgs.dev.azure.com/Next-Ecommerce/_packaging/Next-Ecommerce/npm/registry/
+always-auth=true

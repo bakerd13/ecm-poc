@@ -1,0 +1,48 @@
+.qty-add-btn-container {
+    float: right;
+    margin-right: 0;
+    min-height: 45px;
+    width: 58%;
+}
+
+.item .qty-add-btn-container.multiDropDown {
+    width: 58%;
+  }
+
+  .options .size-select-container {
+    width: 40%;
+  }
+
+.options .size-select-container .sizes {
+    height: 44px;
+  }
+
+  .options .add-container {
+    width: 23.7288135593%;
+  }
+
+.size-select-container {
+    width: 74%;
+    float: left;
+    margin-right: 1.6949152542%;
+  }
+
+.size-select-container .sizes {
+    height: 40px;
+  }
+
+.qty-select-container {
+    width: 32.2033898305%;
+    float: left;
+    margin-right: 1.6949152542%;
+  }
+
+.qty-select-container .quantity {
+    height: 44px;
+  }
+
+.add-container {
+    width: 23.7288135593%;
+    float: left;
+    margin-right: 0;
+  }

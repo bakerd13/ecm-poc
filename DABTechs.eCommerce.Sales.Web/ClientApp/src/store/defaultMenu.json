@@ -1,0 +1,34 @@
+{
+  "departments": [
+    {
+      "name": "Womens",
+      "siteUrl": "af=gender:women&gender=women"
+      
+    },
+    {
+      "name": "Mens",
+      "siteUrl": "af=gender:men"
+     
+    },
+    {
+      "name": "Girls",
+      "siteUrl": "af=gender:oldergirls gender:youngergirls gender:newborngirls"
+      
+    },
+    {
+      "name": "Boys",
+      "siteUrl": "af=gender:olderboys gender:youngerboys gender:newbornboys"
+      
+    },
+    {
+      "name": "Homeware",
+      "siteUrl": "af=cat:homeware"
+      
+    },
+    {
+      "name": "Brands",
+      "siteUrl": "af=editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany"
+      
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="13px" viewBox="0 0 10 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Arrow-Dark</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="R/Button/Arrow-Button-Transparent" transform="translate(-9.000000, -7.000000)" fill-rule="nonzero" stroke="#525252" stroke-width="1.5">
+            <g id="R/Button/Arrow-Button/Black-Arrow" transform="translate(14.000000, 13.611111) rotate(90.000000) translate(-14.000000, -13.611111) translate(8.944444, 9.722222)">
+                <path d="M0,4 L10,4" id="Path-2"></path>
+                <polyline id="Path-4" points="6.15384615 0 10 4 6.15384615 8"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

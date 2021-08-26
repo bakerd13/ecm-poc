@@ -1,0 +1,23 @@
+.facet-option {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+.facet-option.facet-hide {
+    display: none;
+  }
+
+.option {
+    display: flex;
+    flex: 1;
+    align-items: flex-start;
+    flex-direction: row;
+}
+
+.option-name {
+    max-width: 105px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }

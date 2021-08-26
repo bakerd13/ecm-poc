@@ -1,0 +1,11 @@
+.filter-controls {
+    display: flex;
+  }
+
+  .filters
+{
+    display: flex;
+    flex-direction: column;
+    border: black 1px solid;
+    justify-content: flex-end;
+}

@@ -1,0 +1,27 @@
+.price-history-container {
+  font-size: 12px;
+  width: 100%;
+  float: left;
+  margin: 6px 0;
+}
+
+.price-history-container .price-history-link,
+.price-history-container .price-history-link:hover {
+  display: block;
+  font-size: 12px;
+  text-decoration: none;
+  color: #111;
+}
+
+.price-history-container .price-history-link span,
+.price-history-container .price-history-link:hover span {
+  font-size: 11px;
+  text-decoration: underline;
+}
+
+.price-history-container .tooltip .originalPrice {
+    width: auto;
+    min-width: 82px;
+    width: 100%;
+    text-align: right;
+  }

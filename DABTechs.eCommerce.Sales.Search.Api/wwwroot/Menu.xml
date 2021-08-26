@@ -1,0 +1,364 @@
+<!-- edited with XMLSpy v2014 rel. 2 (http://www.altova.com) by Nitesh Patel (Next Group Plc)  -->
+<meganav xmlns="http://www.next.co.uk" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<department name="Womens" siteurl="af=gender:women&amp;gender=women">
+		<searchlinks>
+			<column>
+				<section title="Clothing">
+					<link title="Shop All " siteurl="af=gender:women" newin="false"/>
+					<link title="Blouses &amp; Shirts" siteurl="af=gender:women productaffiliation:shirtsandblouses" newin="false"/>
+					<link title="Coats &amp; Jackets" siteurl="af=gender:women productaffiliation:coatsandjackets" newin="false"/>
+					<link title="Dresses" siteurl="af=gender:women sub:dresses sub:suitdresses sub:Dresses sub:SuitDresses" newin="false"/>
+					<link title="Hoodies &amp; Sweatshirts" siteurl="af=gender:women productaffiliation:sweatshirtsandhoodies" newin="false"/>
+					<link title="Jeans " siteurl="af=gender:women sub:jeans sub:Jeans" newin="false"/>
+					<link title="Jumpers &amp; Cardigans" siteurl="af=gender:women productaffiliation:knitwear" newin="false"/>
+					<link title="Jumpsuits &amp; Playsuits" siteurl="af=gender:women productaffiliation:jumpsuitsandplaysuits" newin="false"/>
+					<link title="Nightwear &amp; Loungewear" siteurl="af=gender:women productaffiliation:nightwear" newin="false"/>
+					<link title="Skirts &amp; Shorts" siteurl="af=gender:women productaffiliation:shortsandskirts" newin="false"/>
+					<link title="Sportswear" siteurl="af=gender:women productaffiliation:sportswear" newin="false"/>
+					<link title="Suits &amp; Workwear" siteurl="af=gender:women productaffiliation:tailoring" newin="false"/>
+					<link title="Swim &amp; Beachwear" siteurl="af=gender:women productaffiliation:swimwear" newin="false"/>
+					<link title="Tops &amp; T-Shirts" siteurl="af=gender:women productaffiliation:tops" newin="false"/>
+					<link title="Trousers &amp; Leggings" siteurl="af=gender:women productaffiliation:trousersleggings" newin="false"/>
+					<link title="Lingerie" siteurl="af=gender:women productaffiliation:lingerie" newin="false"/>
+
+				</section>
+			</column>
+			<column>
+				<section title="Shoes">
+					<link title="All Footwear" siteurl="af=gender:women productaffiliation:footwear" newin="false"/>
+					<link title="Boots" siteurl="af=gender:women sub:boots sub:wellies sub:Boots sub:Wellies" newin="false"/>
+					<link title="Sandals, Flip Flops &amp; Wedges" siteurl="af=gender:women sub:sandals sub:Sandals" newin="false"/>
+					<link title="Shoes" siteurl="af=gender:women sub:shoes sub:Shoes" newin="false"/>
+					<link title="Trainers" siteurl="af=gender:women sub:trainers sub:Trainers" newin="false"/>
+					<link title="Slippers" siteurl="af=gender:women sub:slippers sub:Slippers" newin="false"/>
+				</section>
+				<section title="Accessories">
+					<link title="All Accessories" siteurl="af=gender:women productaffiliation:accessories" newin="false"/>
+					<link title="Bags &amp; Purses" siteurl="af=gender:women sub:bags sub:purses sub:Bags sub:Purses" newin="false"/>
+					<link title="Hats, Gloves &amp; Scarves" siteurl="af=gender:women sub:hats sub:Hats sub:gloves sub:Gloves sub:scarves sub:Hats sub:Scarves" newin="false"/>
+					<link title="Fragrance &amp; Beauty" siteurl="af=gender:women editorial:beauty editorial:Beauty" newin="false"/>
+					<link title="Jewellery &amp; Watches" siteurl="af=gender:women productaffiliation:jewellery" newin="false"/>
+					<!--<link title="Sunglasses" siteurl="af=gender:women sub:sunglasses" newin="false"/>-->
+				</section>
+			</column>
+			<column>
+				<section title="Brands">
+					<link title="Shop All " siteurl="af=gender:women editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany" newin="false"/>
+					<link title="Accessorize" siteurl="af=gender:women brand:accessorize" newin="false"/>
+					<link title="adidas" siteurl="af=gender:women brand:adidas brand:adidasoriginals" newin="false"/>
+					<link title="Barbour" siteurl="af=gender:women brand:barbour" newin="false"/>
+					<!--<link title="Boohoo" siteurl="af=gender:women brand:boohoo" newin="false"/>-->
+<!--					<link title="Coast" siteurl="af=gender:women brand:coast" newin="false"/>-->
+-->				<!--	<link title="Hype" siteurl="af=gender:women brand:hype" newin="false"/>-->
+					<link title="Joules" siteurl="af=gender:women brand:joules" newin="false"/>
+					<!--<link title="Label Mix" siteurl="af=editorial:label productaffiliation:labelmix" newin="false"/>-->-->
+						<link title="Lipsy" siteurl="af=gender:women brand:lipsy" newin="false"/>
+					<link title="Mint Velvet" siteurl="af=gender:women brand:mintvelvet" newin="false"/>
+					<link title="Monsoon" siteurl="af=gender:women brand:monsoon" newin="false"/>
+					<link title="Nike" siteurl="af=gender:women brand:nike" newin="false"/>
+					<link title="Oasis" siteurl="af=gender:women brand:oasis" newin="false"/>-->
+					<link title="Phase Eight" siteurl="af=gender:women brand:phaseeight" newin="false"/>
+<!--					<link title="Pour Moi" siteurl="af=gender:women brand:pourmoi" newin="false"/>-->
+<!--					<link title="PrettyLittleThing" siteurl="af=gender:women brand:prettylittlething" newin="false"/>
+-->					<!--<link title="Quiz" siteurl="af=gender:women brand:quiz" newin="false"/>-->
+					<link title="River Island" siteurl="af=gender:women brand:riverisland" newin="false"/>
+					<link title="Ted Baker" siteurl="af=gender:women brand:tedbaker" newin="false"/>
+					<link title="Topshop" siteurl="af=gender:women brand:topshop" newin="false"/>
+					<link title="Warehouse" siteurl="af=gender:women brand:warehouse" newin="false"/>
+				</section>-->
+			</column>
+		</searchlinks>
+	</department>
+	<department name="Mens" siteurl="af=gender:men">
+		<searchlinks>
+			<column>
+				<section title="Clothing">
+					<link title="Shop All" siteurl="af=gender:men" newin="false"/>
+					<link title="Coats &amp; Jackets" siteurl="af=gender:men productaffiliation:coatsandjackets" newin="false"/>
+					<link title="Jeans" siteurl="af=gender:men sub:jeans sub:Jeans" newin="false"/>
+					<link title="Joggers" siteurl="af=gender:men sub:joggers sub:Joggers" newin="false"/>
+					<link title="Knitwear" siteurl="af=gender:men productaffiliation:knitwear" newin="false"/>
+				    <link title="Pyjamas &amp; Loungewear" siteurl="af=gender:men productaffiliation:nightwear" newin="false"/>
+					<link title="Shirts" siteurl="af=gender:men productaffiliation:casualshirts productaffiliation:formalshirts" newin="false"/>
+					<link title="Shorts &amp; Swimwear" siteurl="af=gender:men sub:shorts sub:swimshorts sub:Shorts sub:SwimShorts" newin="false"/>
+					<link title="Socks" siteurl="af=gender:men sub:socks sub:Socks" newin="false"/>
+					<link title="Sportswear" siteurl="af=gender:men productaffiliation:sportswear" newin="false"/>
+					<link title="Suits" siteurl="af=gender:men productaffiliation:tailoring productaffiliation:Tailoring" newin="false"/>
+					<link title="Sweatshirts &amp; Hoodies" siteurl="af=gender:men sub:hoodies sub:sweattops sub:sweat_tops sub:Hoodies sub:SweatTops" newin="false"/>
+					<link title="T-shirts &amp; Polos" siteurl="af=gender:men productaffiliation:tops" newin="false"/>
+					<link title="Trousers &amp; Chinos" siteurl="af=gender:men sub:trousers sub:Trousers" newin="false"/>
+					<link title="Underwear" siteurl="af=gender:men productaffiliation:underwear" newin="false"/>
+				</section>
+			</column>
+			<column>
+				<section title="Footwear">
+					<link title="Shop All" siteurl="af=gender:men productaffiliation:footwear" newin="false"/>
+					<link title="Boots" siteurl="af=gender:men sub:boots sub:wellies sub:Boots sub:Wellies" newin="false"/>
+					<link title="Flipflops &amp; Sliders" siteurl="af=gender:men sub:sandals sub:Sandals" newin="false"/>
+					<link title="Football Boots" siteurl="af=gender:men sub:footballboots sub:FootballBoots" newin="false"/>
+					<link title="Shoes" siteurl="af=gender:men sub:shoes sub:Shoes" newin="false"/>
+					<link title="Slippers" siteurl="af=gender:men sub:slippers sub:Slippers" newin="false"/>
+					<link title="Trainers &amp; Pumps" siteurl="af=gender:men sub:trainers sub:Trainers" newin="false"/>
+				</section>
+				<section title="Accessories">
+					<link title="Shop All" siteurl="af=gender:men sub:ties sub:sunglasses sub:watches sub:gifts sub:bags sub:hats sub:wallets sub:belts sub:bracelets sub:bottle sub:stationeryandcraft sub:swimmingaccessories sub:washbags sub:Ties sub:Sunglasses sub:Watches sub:Gifts sub:Bags sub:Hats sub:Wallets sub:Belts sub:Bracelets sub:Bottle sub:StationeryandCraft sub:SwimmingAccessories sub:Washbags" newin="false"/>
+					<link title="Bags" siteurl="af=gender:men productaffiliation:accessories sub:bags productaffiliation:Accessories sub:Bags" newin="false"/>
+					<link title="Belts" siteurl="af=gender:men productaffiliation:accessories sub:belts sub:Belts" newin="false"/>
+					<link title="Gifts &amp; Gadgets" siteurl="af=gender:men sub:watches sub:gifts sub:fragrances sub:bottle sub:handkerchiefs sub:Watches sub:Gifts sub:Fragrances sub:Bottle sub:Handkerchiefs" newin="false"/>
+					<link title="Ties &amp; Pocket Squares" siteurl="af=gender:men sub:pocketsquares sub:ties sub:PocketSquares sub:Ties" newin="false"/>
+					<!--<link title="Watches" siteurl="af=gender:men sub:watches sub:Watches" newin="false"/>-->
+					<link title="Wallets" siteurl="af=gender:men sub:wallets sub:Wallets" newin="false"/>
+<!--					<link title="Mens Grooming" siteurl="af=gender:men sub:fragrances sub:fragrancegiftsets sub:bathbodygiftset sub:shaving sub:Fragrances sub:FragranceGiftSets sub:BathBodyGiftSet sub:Shaving" newin="false"/>
+-->				</section>
+			</column>
+			<column>
+				<section title="Brands">
+					<link title="Shop All" siteurl="af=gender:men editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany" newin="false"/>
+					<!--<link title="Abercrombie &amp; Fitch" siteurl="af=gender:men brand:abercrombiefitch" newin="false"/>-->
+					<!--<link title="Adidas" siteurl="af=gender:men brand:adidas" newin="false"/>-->
+					<link title="Adidas" siteurl="af=gender:men brand:adidasoriginals brand:adidas" newin="false"/>
+					<!--<link title="Barbour" siteurl="af=gender:men brand:barbour" newin="false"/>-->
+					<link title="Burton" siteurl="af=gender:men brand:burton" newin="false"/>
+					<link title="Esprit" siteurl="af=gender:men brand:esprit" newin="false"/>
+					<link title="FatFace" siteurl="af=gender:men brand:fatface" newin="false"/>
+					<link title="GANT" siteurl="af=gender:men brand:gant" newin="false"/>
+					<link title="Hugo Boss" siteurl="af=gender:men brand:hugo brand:boss" newin="false"/>
+					<link title="Hummel" siteurl="af=gender:men brand:hugo brand:hummel" newin="false"/>
+					<!--<link title="Hype" siteurl="af=gender:men brand:hype" newin="false"/>-->
+<!--					<link title="Jack Wills" siteurl="af=gender:men brand:jackwills" newin="false"/>
+--><!--					<link title="Jacamo" siteurl="af=gender:men brand:jacamo" newin="false"/>
+-->					<link title="Jack &amp; Jones" siteurl="af=gender:men brand:jackandjones" newin="false"/>
+					<link title="Joules" siteurl="af=gender:men brand:joules" newin="false"/>					<!--	<link title="Lacoste" siteurl="af=gender:men brand:lacoste" newin="false"/>-->
+					<link title="Lyle &amp; Scott" siteurl="af=gender:men brand:lyleandscott brand:LyleandScott" newin="false"/>
+					<link title="Nike" siteurl="af=gender:men brand:nike" newin="false"/>
+					<!--	<link title="Ralph Lauren" siteurl="af=gender:men brand:ralphlauren" newin="false"/>-->
+					<link title="River Island" siteurl="af=gender:men brand:riverisland" newin="false"/>
+					<link title="Superdry" siteurl="af=gender:men brand:superdry" newin="false"/>
+					<!--		<link title="Replay" siteurl="af=gender:men brand:replay" newin="false"/>-->
+					<link title="Ted Baker" siteurl="af=gender:men brand:tedbaker" newin="false"/>
+					<link title="Topman" siteurl="af=gender:men brand:topman" newin="false"/>
+					<!--		<link title="Tommy Hilfiger" siteurl="af=gender:men brand:tommyhilfiger" newin="false"/>-->
+				</section>
+			</column>
+		</searchlinks>
+	</department>
+	<department name="Girls" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls">
+		<searchlinks>
+			<column>
+				<section title="Clothing">
+					<link title="Shop All" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex" newin="false"/>
+					<link title="Coats &amp; Jackets" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex productaffiliation:coatsandjackets" newin="false"/>
+					<link title="Dresses" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex sub:dresses sub:Dresses" newin="false"/>
+					<link title="Jeans" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex sub:jeans sub:Jeans" newin="false"/>
+					<link title="Jumpsuits &amp; Playsuits" siteurl="af=gender:oldergirls gender:youngergirls  gender:newbornunisex productaffiliation:jumpsuitsandplaysuits" newin="false"/>
+					<link title="Knitwear" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex productaffiliation:knitwear" newin="false"/>
+					<link title="Nightwear &amp; Pyjamas" siteurl="af=gender:oldergirls gender:youngergirls gender:newbornrgirls gender:newbornrunisex productaffiliation:nightwear" newin="false"/>
+					<link title="Schoolwear" siteurl="af=gender:oldergirls gender:youngergirls productaffiliation:schoolwear" newin="false"/>
+					<link title="Sets &amp; Outfits" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex sub:sets sub:Sets" newin="false"/>
+					<link title="Shorts &amp; Skirts" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex sub:shorts sub:skirts sub:Shorts sub:Skirts" newin="false"/>
+					<link title="Sleepsuits &amp; Bodysuits" siteurl="af=gender:unisex gender:newbornunisex gender:newborngirls sub:sleepsuits sub:bodysuits sub:Sleepsuits sub:Bodysuits" newin="false"/>
+					<link title="Sportswear" siteurl="af=gender:oldergirls gender:youngergirls gender:newbornunisex gender:newborngirls productaffiliation:sportswear" newin="false"/>
+					<link title="Sweatshirts &amp; Hoodies" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex productaffiliation:sweatshirtsandhoodies" newin="false"/>
+					<link title="Swim &amp; Beach" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex productaffiliation:swimwear" newin="false"/>
+					<link title="Tops, T-shirts &amp; Shirts" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex productaffiliation:tops" newin="false"/>
+					<link title="Trousers &amp; Leggings" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex productaffiliation:trousersleggings" newin="false"/>
+				</section>
+			</column>
+			<column>
+				<section title="Shoes &amp; Accessories">
+					<link title="Bags &amp; Accessories" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls productaffiliation:accessories" newin="false"/>
+					<link title="Hats, Gloves &amp; Scarves" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls sub:hats sub:scarves sub:Hats sub:Scarves" newin="false"/>
+					<link title="Shoes &amp; Boots" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls productaffiliation:footwear" newin="false"/>	
+					<link title="Socks, Tights &amp; Underwear" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls sub:socks sub:tights sub:briefs sub:croptops sub:Socks sub:Tights sub:Briefs sub:CropTops" newin="false"/>			</section>
+			</column>
+			<column/>
+			<column>
+				<section title="Brands">
+					<link title="Shop All" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany" newin="false"/>
+					<link title="Adidas" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:adidas brand:adidasoriginals" newin="false"/>
+				    <link title="Benetton" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:benetton" newin="false"/>
+				    <link title="Boden" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:boden" newin="false"/>
+<!--				    <link title="Calvin Klein" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:calvinklein" newin="false"/>
+-->				    <link title="Clarks" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:clarks" newin="false"/>
+				    <link title="Converse" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:converse" newin="false"/>
+ 				     <link title="Frugi" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:frugi" newin="false"/>
+ 				    <link title="FatFace" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:fatface" newin="false"/>
+ 				    <!--<link title="Hummel" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:hummel" newin="false"/>-->
+					<link title="Joules" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:joules" newin="false"/>
+					<link title="Lipsy Girls" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:lipsy" newin="false"/>
+					<link title="Mint Velvet" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:mintvelvet" newin="false"/>
+					<link title="Monsoon" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:monsoon" newin="false"/>
+					<link title="Nike" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:nike" newin="false"/>
+					<link title="River Island" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:riverisland" newin="false"/>
+					<link title="Tommy Hilfiger" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex brand:tommyhilfiger" newin="false"/>
+				</section>
+			</column>
+		</searchlinks>
+	</department>
+	<department name="Boys" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys">
+		<searchlinks>
+			<column>
+				<section title="Clothing">
+					<link title="Shop All" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex" newin="false"/>
+					<link title="Coats &amp; Jackets" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex sub:jackets sub:coats sub:Jackets sub:Coats" newin="false"/>
+					<link title="Jeans" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex sub:jeans sub:Jeans" newin="false"/>
+					<link title="Joggers" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex sub:joggers sub:Joggers" newin="false"/>
+					<link title="Nightwear &amp; Pyjamas" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys sub:pyjamas sub:robes sub:Pyjamas sub:Robes" newin="false"/>
+					<link title="Schoolwear" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:schoolwear" newin="false"/>
+					<link title="Sets &amp; Outfits" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:outfits" newin="false"/>
+					<link title="Shirts" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:shirts" newin="false"/>
+					<link title="Shorts" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex sub:shorts sub:Shorts" newin="false"/>
+					<link title="Sleepsuits &amp; Babysuits" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex sub:sleepsuits sub:bodysuits sub:Sleepsuits sub:Bodysuits" newin="false"/>
+					<link title="Sportswear" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:sportswear" newin="false"/>
+					<link title="Suits &amp; Waistcoats" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:boyssuits" newin="false"/>
+					<link title="Sweatshirts &amp; Knitwear" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:sweatshirtsandhoodies" newin="false"/>
+					<link title="Swim &amp; Beach" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:swimwear" newin="false"/>
+					<link title="Tops, T-shirts &amp; Polos" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:tops" newin="false"/>
+					<link title="Trousers &amp; Chinos" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:trousers" newin="false"/>
+				</section>
+			</column>
+			<column>
+				<section title="Shoes &amp; Accessories">
+					<link title="Bags &amp; Accessories" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:accessories" newin="false"/>
+					<link title="Hats &amp; Gloves" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:hatsglovesscarves" newin="false"/>
+					<link title="Shoes &amp; Boots" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex productaffiliation:footwear" newin="false"/>
+					<link title="Socks &amp; Underwear" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex sub:socks sub:briefs sub:boxers sub:trunks sub:Socks sub:Briefs sub:Boxers sub:Trunks" newin="false"/>				</section>
+			</column>
+			<column>
+				<section title="Brands">
+					<link title="Shop All" siteurl="af=gender:newbornboys gender:newbornunisex gender:youngerboys gender:olderboys editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany" newin="false"/>
+					<link title="Adidas" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:adidas brand:adidasoriginals" newin="false"/>
+					<link title="Benetton" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:benetton" newin="false"/>
+					<!--<link title="Birkenstock" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:birkenstock" newin="false"/>-->
+					<link title="Boden" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:boden" newin="false"/>
+					<link title="BOSS" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:boss" newin="false"/>
+					<link title="Clarks" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:clarks" newin="false"/>
+					<link title="Converse" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:converse" newin="false"/>
+					<link title="Esprit" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:esprit" newin="false"/>
+					<link title="Frugi" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:frugi" newin="false"/>
+					<link title="GANT" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:gant" newin="false"/>				
+					<link title="GAP" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:gap" newin="false"/>				
+					<link title="Hype" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:hype" newin="false"/>
+					<link title="Joules" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:joules" newin="false"/>
+					<!--<link title="Lyle &amp; Scott" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:lyleandscott" newin="false"/>-->
+					<link title="Nike" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:nike" newin="false"/>
+					<link title="River Island" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:riverisland" newin="false"/>
+					<link title="Tommy Hilfiger" siteurl="af=gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex brand:tommyhilfiger" newin="false"/>
+				</section>
+			</column>
+		</searchlinks>
+	</department>
+	<department name="Homeware" siteurl="af=cat:homeware">
+		<searchlinks>
+			<column>
+				<section title="Home Furnishings">
+					<link title="Shop All" siteurl="af=gender:homeware gender:unisex" newin="false"/>
+					<link title="Bathroom" siteurl="af=gender:homeware gender:unisex productaffiliation:bathroom" newin="false"/>
+					<link title="Bedding" siteurl="af=gender:homeware gender:unisex productaffiliation:bedding" newin="false"/>
+					<link title="Childrens Bedroom" siteurl="af=gender:homeware gender:unisex productaffiliation:childrensbedroom" newin="false"/>
+					<link title="Curtains &amp; Blinds" siteurl="af=gender:homeware gender:unisex productaffiliation:curtainsandblinds" newin="false"/>
+					<link title="Cushions &amp; Throws" siteurl="af=gender:homeware gender:unisex productaffiliation:cushionsandthrows" newin="false"/>
+					<link title="Decorative Accessories" siteurl="af=gender:homeware gender:unisex productaffiliation:decorativeaccessories" newin="false"/>
+					<link title="Home Brands" siteurl="af=gender:homeware gender:unisex editorial:label editorial:Label" newin="false"/>
+					<link title="Home Fragrance" siteurl="af=gender:homeware gender:unisex productaffiliation:homefragrance" newin="false"/>
+<!--					<link title="Home Fragrance" siteurl="af=cat:homeware productaffiliation:homefragrance" newin="false"/>
+-->					<link title="Kitchen &amp; Tableware" siteurl="af=gender:homeware gender:unisex productaffiliation:kitchen" newin="false"/>
+					<link title="Lighting" siteurl="af=gender:homeware gender:unisex productaffiliation:lighting" newin="false"/>
+					<link title="Rugs" siteurl="af=gender:homeware gender:unisex productaffiliation:rugsrunnersdoormats" newin="false"/>
+				</section>
+			</column>
+			<column>
+				<section title="Furniture">
+					<link title="Shop All Furniture" siteurl="af=cat:homeware productaffiliation:furniture" newin="false"/>
+					<link title="Bedroom Furniture" siteurl="af=cat:homeware productaffiliation:bedroomfurniture" newin="false"/>
+					<link title="Dining Furniture" siteurl="af=cat:homeware productaffiliation:diningroomfurniture" newin="false"/>
+					<link title="Living Room Furniture" siteurl="af=cat:homeware productaffiliation:livingfurniture" newin="false"/>
+					<!--<link title="Nursery &amp; Baby" siteurl="af=cat:homeware productaffiliation:nurseryandbaby" newin="false"/>-->
+					<link title="Sofas &amp; Upholstery" siteurl="af=cat:homeware sub:upholstery sub:Upholstery" newin="false"/>
+				</section>
+			</column>
+		</searchlinks>
+	</department>
+<department name="Brands" siteurl="af=editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany">
+		<searchlinks>
+				<column>
+				<section title="Featured Brands A-G">
+					<link title="Accessorize" siteurl="af= brand:accessorize" newin="false"/>
+					<link title="adidas" siteurl="af= brand:adidas brand:adidasoriginals" newin="false"/>
+					<link title="Benetton" siteurl="af= brand:benetton" newin="false"/>
+					<link title="Boden" siteurl="af= brand:boden" newin="false"/>
+					<!--<link title="Boohoo" siteurl="af= brand:boohoo" newin="false"/>-->
+					<link title="Clarks" siteurl="af= brand:clarks" newin="false"/>
+					<link title="Converse" siteurl="af= brand:converse" newin="false"/>
+					<link title="Dorothy Perkins" siteurl="af= brand:dorothyperkins" newin="false"/>
+					<link title="Esprit" siteurl="af= brand:esprit" newin="false"/>
+					<link title="Evans" siteurl="af= brand:evans" newin="false"/>
+					<link title="FatFace" siteurl="af= brand:fatface" newin="false"/>
+					<link title="French Connection" siteurl="af= brand:frenchconnection" newin="false"/>
+					<link title="Frugi" siteurl="af= brand:frugi" newin="false"/>
+					<link title="GANT" siteurl="af= brand:gant" newin="false"/>
+					<link title="GAP" siteurl="af= brand:gap" newin="false"/>
+<!--					<link title="Glamorous" siteurl="af= brand:glamorous" newin="false"/>
+-->				</section>
+			</column>
+			<column>
+				<section title="Featured Brands H-N">
+					<link title="Hugo Boss" siteurl="af= brand:hugo brand:boss" newin="false"/>
+					<link title="Hobbs" siteurl="af= brand:hobbs" newin="false"/>
+					<link title="Hype" siteurl="af= brand:hype" newin="false"/>
+					<link title="Jigsaw" siteurl="af= brand:jigsaw" newin="false"/>
+					<link title="Joe Browns" siteurl="af= brand:joebrowns" newin="false"/>
+					<link title="Joules" siteurl="af= brand:joules" newin="false"/>
+<!--					<link title="Karen Millen" siteurl="af= brand:karenmillen" newin="false"/>
+-->					<link title="Lipsy" siteurl="af= brand:lipsy" newin="false"/>
+					<link title="Lotus Footwear" siteurl="af= brand:lotusfootwear" newin="false"/>
+					<link title="Lyle &amp; Scott" siteurl="af= brand:lyleandscott" newin="false"/>
+					<link title="Mint Velvet" siteurl="af= brand:mintvelvet" newin="false"/>
+					<!--<link title="Missguided" siteurl="af= brand:missguided" newin="false"/>-->
+					<link title="Monsoon" siteurl="af= brand:monsoon" newin="false"/>#
+					<!--<link title="New Look" siteurl="af= brand:newlook" newin="false"/>-->
+					<link title="Nike" siteurl="af= brand:nike" newin="false"/>
+				</section>
+			</column>
+			<column>
+				<section title="Featured Brands O-Z">
+					<link title="Oasis" siteurl="af= brand:oasis" newin="false"/>
+					<link title="Phase Eight" siteurl="af= brand:phaseeight" newin="false"/>
+					<link title="Pour Moi" siteurl="af= brand:pourmoi" newin="false"/>
+					<link title="PrettyLittleThing" siteurl="af= brand:prettylittlething" newin="false"/>
+					<link title="Quiz" siteurl="af= brand:quiz" newin="false"/>
+					<link title="Reebok" siteurl="af= brand:reebok" newin="false"/>
+					<link title="River Island" siteurl="af= brand:riverisland" newin="false"/>
+					<link title="Simply Be" siteurl="af= brand:simplybe" newin="false"/>
+					<link title="Superdry" siteurl="af= brand:superdry" newin="false"/>
+					<link title="Ted Baker" siteurl="af= brand:tedbaker" newin="false"/>
+					<link title="Tommy Hilfiger" siteurl="af= brand:tommyhilfiger" newin="false"/>
+					<link title="Under Armour" siteurl="af= brand:underarmour" newin="false"/>
+					<link title="Wallis" siteurl="af= brand:wallis" newin="false"/>
+					<link title="Warehouse" siteurl="af= brand:warehouse" newin="false"/>
+					<link title="White Stuff" siteurl="af= brand:whitestuff" newin="false"/>
+				</section>
+			</column>
+			<column>
+				<section title="Womens">
+					<link title="All Clothing " siteurl="af=gender:women editorial:label editorial:lipsyandcompany editorial:Label editorial:LipsyandCompany" newin="false"/>
+					<link title="All Shoes &amp; Boots " siteurl="af=gender:women editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany sub:trainers sub:sandals sub:shoes sub:pumps sub:boots sub:wellies sub:slippers sub:Trainers sub:Sandals sub:Shoes sub:Pumps sub:Boots sub:Wellies sub:Slippers" newin="false"/>
+					<link title="All Accessories " siteurl="af=gender:women editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany sub:sunglasses sub:bags sub:ties sub:belts sub:socks sub:Sunglasses sub:Bags sub:Ties sub:Belts sub:Socks" newin="false"/>
+					<link title="Sportswear &amp; Trainers" siteurl="af=gender:women productaffiliation:sportswear" newin="false"/>
+					<link title="Swimwear &amp; Lingerie" siteurl="af=gender:women sub:bikinis sub:swimsuits sub:tankinis sub:coverups sub:kaftans sub:bikinibottoms sub:swimmingaccessories sub:bodies sub:bodysuits sub:slips sub:babydollsbasques sub:briefs sub:shapewearsolutions sub:tights sub:Bikinis sub:Swimsuits sub:Tankinis sub:CoverUps sub:Kaftans sub:BikiniBottoms sub:SwimmingAccessories sub:Bodies sub:Bodysuits sub:slips sub:BabydollsBasques sub:Briefs sub:ShapewearSolutions sub:Tights" newin="false"/>
+					<link title="Fragrance &amp; Beauty" siteurl="af=gender:women editorial:beauty editorial:Beauty" newin="false"/>
+				</section>
+				<section title="Mens">
+					<link title="All Clothing" siteurl="af=gender:men editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany" newin="false"/>
+					<link title="All Shoes &amp; Boots " siteurl="af=gender:men editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany sub:trainers sub:sandals sub:shoes sub:pumps sub:boots sub:wellies sub:slippers sub:Trainers sub:Sandals sub:Shoes sub:Pumps sub:Boots sub:Wellies sub:Slippers" newin="false"/>
+					<link title="Sportswear &amp; Trainers" siteurl="af=gender:men productaffiliation:sportswear" newin="false"/>
+				</section>
+					<section title="Children">
+					<link title="All Girls" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:newbornunisex editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany" newin="false"/>
+					<link title="All Boys" siteurl="af=gender:gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex editorial:label editorial:Label editorial:lipsyandcompany editorial:LipsyandCompany" newin="false"/>
+					<link title="All Shoes &amp; Trainers" siteurl="af=gender:oldergirls gender:youngergirls gender:newborngirls gender:olderboys gender:youngerboys gender:newbornboys gender:newbornunisex sub:trainers sub:sandals sub:shoes sub:pumps sub:boots sub:wellies sub:slippers sub:Trainers sub:Sandals sub:Shoes sub:Pumps sub:Boots sub:Wellies sub:Slippers" newin="false"/>
+				</section>
+			</column>
+		</searchlinks>
+	</department>
+</meganav>

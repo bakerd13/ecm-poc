@@ -1,0 +1,10 @@
+.PriceFilter {
+    height: 80px;
+}
+
+.PriceRangeDisplay,
+.slider {
+    height: 30px;
+    margin: 2px;
+    padding: 5px;
+}

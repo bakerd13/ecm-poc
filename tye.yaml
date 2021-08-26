@@ -1,0 +1,40 @@
+# tye application configuration file
+# read all about it at https://github.com/dotnet/tye
+#
+# when you've given us a try, we'd love to know what you think:
+#    https://aka.ms/AA7q20u
+#
+name: DABTechs.eCommerce.sales
+services:
+- name: next-ecommerce-sales-web
+  project: DABTechs.eCommerce.Sales.Web/DABTechs.eCommerce.Sales.Web.csproj
+  bindings:
+  - port: 4000
+    protocol: http
+- name: next-ecommerce-sales-search-api
+  project: DABTechs.eCommerce.Sales.Search.Api/DABTechs.eCommerce.Sales.Search.Api.csproj
+  bindings:
+  - name: searchapi_http
+    port: 5000
+    protocol: http
+  - name: searchapi_https
+    port: 5001
+    protocol: https
+- name: next-ecommerce-sales-identity
+  project: DABTechs.eCommerce.Sales.Identity/DABTechs.eCommerce.Sales.Identity.csproj
+  bindings:
+  - name: identity_http
+    port: 5500
+    protocol: http
+  - name: identity_https
+    port: 5501
+    protocol: https
+- name: next-ecommerce-sales-menu-api
+  project: DABTechs.eCommerce.Sales.Menu.Api/DABTechs.eCommerce.Sales.Menu.Api.csproj
+  bindings:
+  - name: menuapi_http
+    port: 5010
+    protocol: http
+  - name: menuapi_https
+    port: 5011
+    protocol: https

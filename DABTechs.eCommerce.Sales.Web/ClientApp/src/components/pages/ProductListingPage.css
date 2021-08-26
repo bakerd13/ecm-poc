@@ -1,0 +1,12 @@
+.productListingPage {
+    display: flex;
+    align-items: flex-start;
+}
+
+.filterContainer {
+    flex: 1;
+}
+
+.resultsContainer {
+    flex: 6;
+} 

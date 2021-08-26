@@ -1,0 +1,168 @@
+.Logout { width: 976px; margin: 8px auto; }
+
+.Logout .TitleBar {
+    height: 40px;
+}
+
+.Logout .TitleBar .Title {
+    font-size: 18px;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family:'azo-sans',sans-serif;
+    font-weight:300;
+}
+
+.Logout .Subtitle {
+    margin: 0 auto 16px 10px;
+    font-size:12px;
+}
+
+.Logout .NextCarouselWrapper { margin-top: 10px; }
+
+.Logout .LogoutLinks {
+    margin-left: 8px;
+    margin-right: 16px;
+    border-bottom: 1px dotted #C7C5C5;
+    margin-bottom: 22px;
+}
+
+.Logout .LogoutLink1 { float: left; margin-bottom: 26px; z-index: 1; position: relative;}
+.Logout .LogoutLink2 { float: left; margin-bottom: 26px; margin-left: 26px; z-index: 1; position: relative;}
+.Logout .LogoutLink3 { float: right; margin-bottom: 26px; z-index: 1; position: relative;}
+.Logout .LogoutLinks a .InnerShadow { box-shadow: 0 0 7px #666 inset; background-color: transparent; }
+.Logout .LogoutLinks a .InnerShadow img { width: 300px; height: 250px; z-index: -1; position: relative;}
+
+.Logout .NextCarouselWrapper { margin-left: 8px; }
+.Logout .NextCarouselClippingRegion { float: left; }
+
+.Logout .NextCarouselWrapper ul.NextCarousel li
+{
+    width: 170px; 
+    height: 340px;
+	margin-right: 26px;
+    overflow:hidden;
+}
+
+.Logout .NextCarouselWrapper ul.NextCarousel li a 
+{
+    display: block;
+    text-decoration: none;
+    color: #000;
+}
+
+.Logout .NextCarouselWrapper ul.NextCarousel li a img
+{
+    width: 168px;
+}
+
+ul.NextCarousel li a div.Title 
+{ 
+    padding: 15px 0 3px 0;
+}
+
+ul.NextCarousel li a div.Title:hover
+{
+    text-decoration:underline;
+}
+
+ul.NextCarousel li a p
+{
+    height: 56px;
+    overflow: hidden;
+    width: 100%;
+    line-height:18px;
+}
+
+.Logout ul.NextCarousel li { position: relative; z-index: 500; }
+
+.Logout ul.NextCarousel li a p { font-size: 11px; }
+
+.carousel-image 
+{    
+    display: block;
+    width: 170px;
+    height:252px;
+    background-color: transparent;
+}
+
+.carousel-image img {
+    z-index: -1;
+    position: relative;
+    height: 252px;
+    border:1px dotted #C7C5C5;
+}
+
+/* start - search page specific */
+
+div.no-results { margin-top: 10px; }
+
+div.no-results p.searched-for { font-size: 16px; font-weight: bold; }
+div.no-results p.searched-for em { color: #29AB9F; }
+
+div.no-results p.suggestions, div.no-results p.search-phrase { font-weight: bold; }
+div.no-results p.search-phrase input { margin-top: 10px; }
+div.no-results p.search-phrase #searchInput { width: 300px; }
+div.no-results p.search-phrase #searchButton 
+{ 
+    min-width: 50px;
+    background-image: url("/Images/Structural/Header/Navigation/Common/Backgrounds/PrimaryNavBG.png");
+    background-repeat: repeat-x;
+    background-position: -3px;
+    border-radius: 3px;
+    border-color: #000000;
+    color: #ffffff;
+    margin-left: 5px;
+    padding: 0 5px 0 5px;
+}
+
+/* end - search page specific */
+
+.CSSLoadDetector { background-color: #FFF; }
+
+/*Internation Logout*/
+
+/*Internation Logout*/
+.Logout .logoutCarouselGap {
+    width: 100%;
+    margin-top: 59px;
+} 
+
+.Logout .logoutImageContainer {
+    width: 100%;
+    line-height: 18px;
+    font-size: 11px;
+}
+
+    .Logout .logoutImageContainer .imageContainer {
+        width: 172px;
+        height: 416px;
+        
+        float: left;
+    }
+
+    .Logout .logoutImageContainer .imageContainer img {
+        z-index: 0;
+        width: 170px;
+        height: 252px;
+        margin-bottom: 8px;
+    }
+
+    .Logout .logoutImageContainer .imageContainer .Title .titlePadding {
+        padding: 15px 0 3px 0;
+
+    }
+
+    .Logout .logoutImageContainer p {
+        height: 56px;
+        width: 169px;
+    }
+
+.rightMarginContent
+{
+    margin-right: 96px;
+}
+
+.clearRightMarginContent
+{
+    margin-right: 0;
+}

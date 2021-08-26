@@ -1,0 +1,51 @@
+.price-history-table {
+    display: none;
+    position: absolute;
+    bottom: 40px;
+    width: 100%;
+    border: 1px solid #ccc;
+    z-index: 9;
+    background: #FFF;
+    font-family: azo-sans;
+    font-weight: 300;
+    box-shadow: 0 5px 5px #ccc;
+    border-radius: 5px;
+    max-height: 240px;
+    overflow-y: auto;
+  }
+
+  .price-history-table .price-history-table-container {
+    margin: 14px 12px;
+  }
+
+.price-history-table .price-history-table-container .price-history-close-btn {
+    float: right;
+    background-position: -72px -36px;
+    width: 16px;
+    height: 16px;
+    background-image: url('/images/vip-sprites.png');
+  }
+
+.price-history-table .price-history-table-container .price-history-close-btn:hover {
+    cursor: pointer;
+  }
+
+  .price-history-table p {
+    margin: 0 0 3px 0;
+    display: inline-block;
+    font-size: 14px;
+  }
+
+.price-history-table table {
+    font-size: 12px;
+    width: 100%;
+}
+
+
+  @media (min-width: 338px) and (max-width: 768px) {
+    .one-column .price-history-container .tooltip .price-history-table {
+      top: -178px;
+    }
+  }
+
+

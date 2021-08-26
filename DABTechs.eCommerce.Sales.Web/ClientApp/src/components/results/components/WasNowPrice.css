@@ -1,0 +1,19 @@
+.was-now-container {
+    float: right;
+    margin-right: 0;
+    font-family: "azo-sans";
+    font-size: 20px;
+    text-align: right;
+    width: 100%;
+  }
+
+ .prices
+ {
+  display: block;
+  color: #cc0000;
+  font-size: 20px;
+  min-width: 64px;
+  float: right;
+  width: 100%;
+  text-align: right;
+}

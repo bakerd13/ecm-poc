@@ -1,0 +1,9 @@
+.product-description {
+  font-size: 12px;
+}
+
+.product-description a {
+  margin: 0 4px;
+  color: #20934c;
+  text-decoration: underline;
+}

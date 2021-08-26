@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg preserveAspectRatio="none" viewBox="0 0 320 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Button Colour</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="R/Button-Label/CTA/Primary-Reflected" fill="#1AA36B">
+            <path vector-effect="non-scaling-stroke" d="M0,0 L0,15.3263372 L5.20833803,42.8362244 L49.9139127,48 C118.230814,46.7426827 159.433279,46.1140241 173.521307,46.1140241 C194.653349,46.1140241 227.179693,45.5866131 234.935887,45.5866131 C240.106684,45.5866131 257.043608,46.3910754 285.746659,48 C293.068255,44.5005044 299.378115,40.6597495 304.676237,36.4777354 C309.974359,32.2957213 315.08228,28.1364762 320,24 L320,4.32358227 C196.955519,1.44119409 126.75018,0 109.383983,0 C92.0177859,0 55.5564582,0 0,0 Z" id="Button-Colour" transform="translate(160.000000, 24.000000) scale(-1, 1) translate(-160.000000, -24.000000) "></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,65 @@
+/* Next Sale Site */
+/* Base teal (links etc) - #3F8279 */
+/* Highlight teal - #7FB8B1 */
+/* base gradient - background: #5a5a5a url(../images/nav.gif) left bottom repeat-x; */
+/* main greys - #000, #222, #333 */
+/* red - #e40b0b */
+/* text shadow - text-shadow: 1px 1px 1px #222; */
+/* reset css */
+/* basic decs */
+html {
+  height: 100%;
+  font-family: Tahoma, Geneva, Arial, sans-serif;
+}
+body {
+  height: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-weight: normal;
+}
+ol,
+ul,
+dl {
+  list-style: none;
+}
+
+
+
+
+
+
+@font-face {
+  font-family: 'azo-sans';
+  src: url('https://www.next.co.uk/Fonts/AzoSans-Thin-webfont.eot');
+  src: url('https://www.next.co.uk/Fonts/AzoSans-Thin-webfont.eot?#iefix') format('embedded-opentype'), url('https://www.next.co.uk/Fonts/AzoSans-Thin-webfont.woff') format('woff'), url('https://www.next.co.uk/Fonts/AzoSans-Thin-webfont.ttf') format('truetype'), url('https://www.next.co.uk/Fonts/AzoSans-Thin-webfont.svg#azo_sansthin') format('svg');
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'azo-sans';
+  src: url('https://www.next.co.uk/Fonts/AzoSans-Light-webfont.eot');
+  src: url('https://www.next.co.uk/Fonts/AzoSans-Light-webfont.eot?#iefix') format('embedded-opentype'), url('https://www.next.co.uk/Fonts/AzoSans-Light-webfont.woff') format('woff'), url('https://www.next.co.uk/Fonts/AzoSans-Light-webfont.ttf') format('truetype'), url('https://www.next.co.uk/Fonts/AzoSans-Light-webfont.svg#azo_sanslight') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'azo-sans';
+  src: url('https://www.next.co.uk/Fonts/AzoSans-Regular-webfont.eot');
+  src: url('https://www.next.co.uk/Fonts/AzoSans-Regular-webfont.eot?#iefix') format('embedded-opentype'), url('https://www.next.co.uk/Fonts/AzoSans-Regular-webfont.woff') format('woff'), url('https://www.next.co.uk/Fonts/AzoSans-Regular-webfont.ttf') format('truetype'), url('https://www.next.co.uk/Fonts/AzoSans-Regular-webfont.svg#azo_sansregular') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'azo-sans';
+  src: url('https://www.next.co.uk/Fonts/AzoSans-Medium-webfont.eot');
+  src: url('https://www.next.co.uk/Fonts/AzoSans-Medium-webfont.eot?#iefix') format('embedded-opentype'), url('https://www.next.co.uk/Fonts/AzoSans-Medium-webfont.woff') format('woff'), url('https://www.next.co.uk/Fonts/AzoSans-Medium-webfont.ttf') format('truetype'), url('https://www.next.co.uk/Fonts/AzoSans-Medium-webfont.svg#azo_sansmedium') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+
+
